@@ -15,6 +15,8 @@
   </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=auroramariatumminello&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+
 ---
 
 ## My Stats
