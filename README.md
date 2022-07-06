@@ -15,9 +15,6 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=auroramariatumminello&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
-![Visitor Count](https://profile-counter.glitch.me/auroramariatumminello/count.svg)
-
 ---
 
 ## My Stats
