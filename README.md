@@ -19,7 +19,7 @@
 
 ## My Stats
 
-[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auroramariatumminello&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=auroramariatumminello)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=auroramariatumminello&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=auroramariatumminello)
 
 ## Top languages
 
